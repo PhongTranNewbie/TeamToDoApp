@@ -1,7 +1,11 @@
 {
-  "name": "workflows",
+  "name": "teamtodoapp",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "config.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
